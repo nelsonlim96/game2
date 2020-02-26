@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nelsonlim96/game2/static/css/main.d1b05096.chunk.css",
+    "main.js": "/nelsonlim96/game2/static/js/main.235031d9.chunk.js",
+    "main.js.map": "/nelsonlim96/game2/static/js/main.235031d9.chunk.js.map",
+    "runtime-main.js": "/nelsonlim96/game2/static/js/runtime-main.808a983f.js",
+    "runtime-main.js.map": "/nelsonlim96/game2/static/js/runtime-main.808a983f.js.map",
+    "static/js/2.7d8f26c4.chunk.js": "/nelsonlim96/game2/static/js/2.7d8f26c4.chunk.js",
+    "static/js/2.7d8f26c4.chunk.js.map": "/nelsonlim96/game2/static/js/2.7d8f26c4.chunk.js.map",
+    "index.html": "/nelsonlim96/game2/index.html",
+    "precache-manifest.0566ddd0fa88ea6b3eafba7a660176ac.js": "/nelsonlim96/game2/precache-manifest.0566ddd0fa88ea6b3eafba7a660176ac.js",
+    "service-worker.js": "/nelsonlim96/game2/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/nelsonlim96/game2/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7d8f26c4.chunk.js.LICENSE.txt": "/nelsonlim96/game2/static/js/2.7d8f26c4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nelsonlim96/game2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.808a983f.js",
+    "static/js/2.7d8f26c4.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.235031d9.chunk.js"
+  ]
+}
